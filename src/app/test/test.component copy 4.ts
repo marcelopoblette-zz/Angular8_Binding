@@ -18,7 +18,7 @@ export class TestComponent implements OnInit {
 public name = "Marcelo";
 public successClass = "text-success";
 public myId = "testId";
-public isDisabled = true;
+public isDisabled = false;
 public hasError = false;
 public isSpecial = true;
 public highlightColor = "orange";
